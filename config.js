@@ -91,7 +91,7 @@ window.CONFIG = {
   botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":29.10735136281949,"top":80.83820312573391,"width":41.30032572883387,"height":5.153276166430366} },
     dresscode: { mostrarTexto:false, posicao: {"left":27.214392596845045,"top":91.58342992989473,"width":46.581485248602235,"height":5.424627114446271} },
-    manual: { mostrarTexto:false, posicao: {"left":28.64568066094249,"top":81.3619062055071,"width":42.69648250299521,"height":4.734181188196089} },
+    manual: { mostrarTexto:false, posicao: {"left":28.64568066094249,"top":81.3619062055071,"width":42.69648250299521,"height":4.734181188196089} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
