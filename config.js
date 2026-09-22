@@ -60,8 +60,8 @@ window.CONFIG = {
   // chave: é exatamente o texto que será copiado quando o convidado clicar.
   // posicao: ajuste pelo editor visual (?editor=1), escolhendo “PIX (copiar chave)”.
   pix: {
-    ativo: false,
-    chave: "00",
+    ativo: true,
+    chave: "14991170482",
     posicao: {"left":16.8,"top":64.0,"width":66.0,"height":8.2}
   },
 
